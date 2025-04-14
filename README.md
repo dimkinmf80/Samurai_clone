@@ -1,2 +1,5 @@
-# Samurai_clone
-Клон бота от хауди хо "Samurai" будет обновлятся
+"# samurai_bot_clone"  
+"# samurai_bot_clone"  
+"# samurai_bot_clone"  
+"# samurai_bot_clone"  
+"# samurai_bot_clone"  
